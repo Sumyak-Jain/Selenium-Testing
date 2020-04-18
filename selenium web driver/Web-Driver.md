@@ -8,8 +8,8 @@
 + Real Browsers
 
 ### Selenium Language Bindings
-> + Selenium developers have built language bindings/Selenium Client Libraries in order to support multiple languages. 
- + For instance, if you want to use the browser driver in java, use the java bindings.
+> + Selenium developers have built language bindings/Selenium Client Libraries in order to support multiple languages.  + For instance, if you want to use the browser driver in java, use the java bindings.
+
 
 ## JSON Wire Protocol
 > + JSON (JavaScript Object Notation) is an open standard for exchanging data on web.

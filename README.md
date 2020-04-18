@@ -11,5 +11,5 @@
 + Selenium can also be integrated with testing frameworks like TestNG for application testing and generating reports.
 
 ### Selenium can have
-[x] Selenium IDE
-[x] Selenium web driver
+- [x] Selenium IDE
+- [x] Selenium web driver

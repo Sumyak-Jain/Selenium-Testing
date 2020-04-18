@@ -13,3 +13,6 @@
 ### Selenium can have
 - [x] Selenium IDE
 - [x] Selenium web driver
+
+### check about 
+[Selenium IDE](IDE)

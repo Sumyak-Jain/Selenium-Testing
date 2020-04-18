@@ -23,7 +23,7 @@ Mozilla Firefox,
 Google Chrome,
 Safari
 
-### how they work?
+### How they work?
 
 1. HTTP request is generated and sent to the browser driver for each Selenium command.
 2. The driver receives the HTTP request through HTTP server.

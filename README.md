@@ -10,11 +10,4 @@
 + Selenium can be integrated with frameworks like Ant and Maven for source code compilation.
 + Selenium can also be integrated with testing frameworks like TestNG for application testing and generating reports.
 
-### Selenium can have
-- [x] Selenium IDE
-- [x] Selenium web driver
 
-### check about 
-[ Selenium IDE](Selenium%20IDE)
-
-[ Selenium web driver](selenium%20web%20driver)
